@@ -1,6 +1,6 @@
 package com.gulsah.strategypattern.animal;
 
-import strategypattern.animal.flying.NoFly;
+import com.gulsah.strategypattern.animal.flying.NoFly;
 
 /**
  * Created by GulsahCoskun on 20.02.2018.

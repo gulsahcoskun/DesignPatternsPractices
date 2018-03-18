@@ -1,6 +1,6 @@
 package com.gulsah.strategypattern.animal;
 
-import strategypattern.animal.flying.FlyFast;
+import  com.gulsah.strategypattern.animal.flying.FlyFast;
 
 /**
  * Created by GulsahCoskun on 20.02.2018.

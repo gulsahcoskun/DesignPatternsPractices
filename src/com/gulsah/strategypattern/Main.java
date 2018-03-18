@@ -1,8 +1,8 @@
 package com.gulsah.strategypattern;
 
-import strategypattern.animal.Bird;
-import strategypattern.animal.Dog;
-import strategypattern.animal.flying.FlySlow;
+import  com.gulsah.strategypattern.animal.Bird;
+import  com.gulsah.strategypattern.animal.Dog;
+import  com.gulsah.strategypattern.animal.flying.FlySlow;
 
 /**
  * Created by GulsahCoskun on 20.02.2018.
